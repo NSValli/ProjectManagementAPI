@@ -1,0 +1,15 @@
+D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagementBLL\bin\Debug\ProjectManagementBLL.dll
+D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagementBLL\bin\Debug\ProjectManagementBLL.pdb
+D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagementBLL\bin\Debug\ProjectManagementDAL.dll
+D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagementBLL\bin\Debug\AutoMapper.dll
+D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagementBLL\bin\Debug\EntityFramework.dll
+D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagementBLL\bin\Debug\ProjectManagementDAL.pdb
+D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagementBLL\bin\Debug\ProjectManagementDAL.dll.config
+D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagementBLL\bin\Debug\AutoMapper.pdb
+D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagementBLL\bin\Debug\AutoMapper.xml
+D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagementBLL\bin\Debug\EntityFramework.xml
+D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagementBLL\obj\Debug\ProjectManagementBLL.csprojAssemblyReference.cache
+D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagementBLL\obj\Debug\ProjectManagementBLL.csproj.CoreCompileInputs.cache
+D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagementBLL\obj\Debug\ProjectManagementBLL.csproj.CopyComplete
+D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagementBLL\obj\Debug\ProjectManagementBLL.dll
+D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagementBLL\obj\Debug\ProjectManagementBLL.pdb
