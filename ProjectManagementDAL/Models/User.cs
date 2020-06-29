@@ -11,7 +11,6 @@ namespace ProjectManagementDAL.Models
  
     public class User
     {
-        [Key]
         public int UserID { get; set; }
 
         [Required]
