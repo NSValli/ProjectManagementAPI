@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagementBLL", "Pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagementDAL", "ProjectManagementDAL\ProjectManagementDAL.csproj", "{EB1CC49F-ACE4-4440-A36C-BADB46037775}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagementAPI.LoadTest", "ProjectManagementAPI.LoadTest\ProjectManagementAPI.LoadTest.csproj", "{99569374-F54B-4695-85A7-118883E1607C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagementAPI.Tests", "ProjectManagementAPI.Tests\ProjectManagementAPI.Tests.csproj", "{00D6535B-0FC6-4B46-A784-6545A930D314}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{EB1CC49F-ACE4-4440-A36C-BADB46037775}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB1CC49F-ACE4-4440-A36C-BADB46037775}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB1CC49F-ACE4-4440-A36C-BADB46037775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99569374-F54B-4695-85A7-118883E1607C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99569374-F54B-4695-85A7-118883E1607C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99569374-F54B-4695-85A7-118883E1607C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99569374-F54B-4695-85A7-118883E1607C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D6535B-0FC6-4B46-A784-6545A930D314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D6535B-0FC6-4B46-A784-6545A930D314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D6535B-0FC6-4B46-A784-6545A930D314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D6535B-0FC6-4B46-A784-6545A930D314}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

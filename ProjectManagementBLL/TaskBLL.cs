@@ -48,7 +48,7 @@ namespace ProjectManagementBLL
             taskDAL.CreateParentTask(task);
         }
 
-        public List<ParentTask> GetAllParentProject()
+        public List<ParentTask> GetAllParentTask()
         {
             TaskDAL taskDAL = new TaskDAL();
             return (taskDAL.GetAllParentTask());

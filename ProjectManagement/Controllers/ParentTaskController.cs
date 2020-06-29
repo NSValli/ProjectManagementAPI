@@ -12,7 +12,7 @@ namespace ProjectManagement.Controllers
         {
 
             TaskBLL taskBLL = new TaskBLL();
-            return Ok(taskBLL.GetAllParentProject());          
+            return Ok(taskBLL.GetAllParentTask());          
         }
 
         [Route("AddParentTask")]

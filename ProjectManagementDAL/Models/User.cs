@@ -3,9 +3,12 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
+using System.Runtime.Serialization;
+
 
 namespace ProjectManagementDAL.Models
 {
+ 
     public class User
     {
         [Key]

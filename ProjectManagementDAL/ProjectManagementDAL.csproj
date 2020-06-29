@@ -59,17 +59,9 @@
     <Compile Include="Entities\Task.cs" />
     <Compile Include="Entities\User.cs" />
     <Compile Include="Entities\Project.cs" />
-    <Compile Include="Migrations\202006250108170_ProjectManagementContext.cs" />
-    <Compile Include="Migrations\202006250108170_ProjectManagementContext.designer.cs">
-      <DependentUpon>202006250108170_ProjectManagementContext.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202006260301490_ProjectManagementContext1.cs" />
-    <Compile Include="Migrations\202006260301490_ProjectManagementContext1.designer.cs">
-      <DependentUpon>202006260301490_ProjectManagementContext1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202006260515297_ProjectManagementContext2.cs" />
-    <Compile Include="Migrations\202006260515297_ProjectManagementContext2.designer.cs">
-      <DependentUpon>202006260515297_ProjectManagementContext2.cs</DependentUpon>
+    <Compile Include="Migrations\202006280103417_Initial.cs" />
+    <Compile Include="Migrations\202006280103417_Initial.designer.cs">
+      <DependentUpon>202006280103417_Initial.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\ParentTask.cs" />
@@ -86,14 +78,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202006250108170_ProjectManagementContext.resx">
-      <DependentUpon>202006250108170_ProjectManagementContext.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202006260301490_ProjectManagementContext1.resx">
-      <DependentUpon>202006260301490_ProjectManagementContext1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202006260515297_ProjectManagementContext2.resx">
-      <DependentUpon>202006260515297_ProjectManagementContext2.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202006280103417_Initial.resx">
+      <DependentUpon>202006280103417_Initial.cs</DependentUpon>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

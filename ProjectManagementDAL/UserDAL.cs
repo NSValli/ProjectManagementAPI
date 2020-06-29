@@ -44,8 +44,8 @@ namespace ProjectManagementDAL
         public void CreateUser(User user)
         {
             ProjectManagementContext userContext = new ProjectManagementContext();
-            var mapper = new Mapper(mapperConfig);
-            var userEntity = mapper.Map<UserEntity>(user);          
+            var mapper = mapperConfig.CreateMapper();           
+            var userEntity = mapper.Map<UserEntity>(user);         
             userContext.Users.Add(userEntity);
             userContext.SaveChanges();
         }

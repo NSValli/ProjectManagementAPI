@@ -98,6 +98,7 @@ D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagement\
 D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagementAPI.csproj.CopyComplete
 D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.dll
 D:\valli\FSD\FinalProject\ProjectManagement\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.pdb
+D:\valli\Git\ProjectManagementAPI\ProjectManagement\bin\Migrations\202006280103417_Initial.resx
 D:\valli\Git\ProjectManagementAPI\ProjectManagement\bin\ProjectManagement.dll.config
 D:\valli\Git\ProjectManagementAPI\ProjectManagement\bin\ProjectManagement.dll
 D:\valli\Git\ProjectManagementAPI\ProjectManagement\bin\ProjectManagement.pdb
