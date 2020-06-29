@@ -55,13 +55,6 @@
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
-    <Reference Include="ProjectManagement">
-      <HintPath>..\ProjectManagement\bin\ProjectManagement.dll</HintPath>
-    </Reference>
-    <Reference Include="ProjectManagementDAL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\ProjectManagementDAL\bin\Debug\ProjectManagementDAL.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
@@ -88,6 +81,10 @@
     <ProjectReference Include="..\ProjectManagementBLL\ProjectManagementBLL.csproj">
       <Project>{f995932a-42cd-4595-abbc-4b8e6d0a8ee8}</Project>
       <Name>ProjectManagementBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProjectManagementDAL\ProjectManagementDAL.csproj">
+      <Project>{eb1cc49f-ace4-4440-a36c-badb46037775}</Project>
+      <Name>ProjectManagementDAL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
